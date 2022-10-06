@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/krishna-cyber/tailwind-rocket-project/issues"
   },
-  "homepage": "https://github.com/krishna-cyber/tailwind-rocket-project#readme"
+  "homepage": "https://github.com/krishna-cyber/tailwind-rocket-project#readme",
+  "devDependencies": {
+    "prettier-plugin-tailwind": "^2.2.12"
+  }
 }
