@@ -4,8 +4,7 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/styles/output.css --watch",
-    "preetier": "npx prettier --write \"**/*.{js,css,scss,md,html}\""
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/styles/output.css --watch"
   },
   "repository": {
     "type": "git",
@@ -19,6 +18,8 @@
   },
   "homepage": "https://github.com/krishna-cyber/tailwind-rocket-project#readme",
   "devDependencies": {
-    "prettier-plugin-tailwind": "^2.2.12"
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwind": "^2.2.12",
+    "prettier-plugin-tailwindcss": "^0.1.13"
   }
 }
