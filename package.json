@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-rocket-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/styles/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishna-cyber/tailwind-rocket-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishna-cyber/tailwind-rocket-project/issues"
+  },
+  "homepage": "https://github.com/krishna-cyber/tailwind-rocket-project#readme"
+}
