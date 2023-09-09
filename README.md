@@ -3,7 +3,7 @@ Acme rocket is the simple static page build using tailwind CSS.<BR>
 This is a project that showcases how to use Tailwind CSS, a utility-first CSS framework that enables rapid and custom UI development.
 
 ## SCREENSHOT
-
+![Acme Rocket](https://raw.githubusercontent.com/krishna-cyber/acme-rockets-project-tailwind/main/screenshot/acme%20rocket.jpeg)
 ## Usage
 To use Tailwind CSS in your project, you need to add the utility classes to your HTML elements. For example, to create a button with a blue background, white text, rounded corners, and some padding, you can use the following HTML:
 
