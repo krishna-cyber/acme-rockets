@@ -12,10 +12,10 @@ To use Tailwind CSS in your project, you need to add the utility classes to your
 For more information on how to use and customize Tailwind CSS, please refer to the [official documentation](https://tailwindcss.com/docs/installation).
 
 ## Installation Instructions
-1. simply clone this project and run `npm install`.active
+1. simply clone this project and run `npm install`.
 2. Now you can enjoy the awesome project.
 
-`Note: This is my first ever project in tailwindcss`.active
+`Note: This is my first ever project in tailwindcss`.
 ## References
 1. [Tailwind CSS documentation](https://tailwindcss.com/docs/installation)
 2. [Dave Gray](https://www.youtube.com/watch?v=lCxcTsOHrjo)
